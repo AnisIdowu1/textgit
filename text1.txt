@@ -1,5 +1,5 @@
 About to start coding
 Training the code
 Testing the code
-plotting graphs
+plottng graphs
 interpreting the plots
